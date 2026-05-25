@@ -19,3 +19,5 @@ bun start
 ```
 
 This project was created using `bun init` in bun v1.3.12. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+
+here i have wrote a wrapper component named CardWrapper which helps in rendering the same type of components and it make lyf easier in fe development . Card wrapper accepts children as it props(only children ) 
