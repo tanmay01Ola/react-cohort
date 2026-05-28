@@ -9,6 +9,10 @@
     "start": "NODE_ENV=production bun src/index.ts"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "axios": "^1.16.1",
+>>>>>>> 69fa0e6 (created todo app)
     "react": "^19",
     "react-dom": "^19"
   },
